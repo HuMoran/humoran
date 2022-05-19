@@ -1,8 +1,6 @@
 # 💫About Me
 
-🔭 I'm ττ
-🔭 I'm ττ
-🔭 I'm ττ
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7BF38&multiline=true&width=600&lines=Hey!+I'm+%CF%84%CF%84.+Welcome+to+my+profile!+;I+am+a+full-stack+software+developer.)](https://git.io/typing-svg)
 
 ## 👨‍💻 Tech Stack
 
